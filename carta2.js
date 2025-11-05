@@ -1,0 +1,6 @@
+    function carta2(){
+let resultadoDiv = document.getElementById("r3");
+  resultadoDiv.textContent =" Mi amor, hoy 5 de octubre que escribo esto, estamos a 5 días de cumplir 5 meses. Han sido los mejores meses de mi vida y espero que cumplamos muchísimos meses más juntos, haciéndonos felices. De verdad, eres lo mejor que me ha pasado en la vida. Te adoro y quiero estar contigo muchísimo tiempo.Amo cuando me tratas como lo mejor que te ha pasado. Eres un cielo, un amor. De verdad, ya no existen palabras para describir lo mucho que te amo. Eres como un sol para mí, eres lo que siempre supliqué. Eres literalmente la niña de mis sueños, y siempre intento tratarte como eso.De verdad, te adoro y lo sabes. Mi corazón explota de amor por ti. Por favorcito, nunca te vayas y nunca dejes de amarme.Estoy muy feliz de que toda tu familia esté de acuerdo con nuestra relación y les guste que estemos juntos. Siento que nuestra relación ha avanzado mucho, y aunque hemos tenido problemas, siempre avanzaremos y estaremos muchísimo tiempo juntos, porque ambos nos amamos muchísimo. ¿Verdad que sí?";
+
+
+}
